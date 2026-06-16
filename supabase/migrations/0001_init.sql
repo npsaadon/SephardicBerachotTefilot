@@ -75,6 +75,8 @@ alter table content_version enable row level security;
 create policy "public read berachot" on berachot for select using (true);
 create policy "public read categories" on categories for select using (true);
 create policy "public read foods" on foods for select using (active = true);
-create policy "public read food_aliases" on food_aliases for select using (true);
+create policy "public read food_aliases" on food_aliases for select using (
+  exists (select 1 from foods f where f.id = food_aliases.food_id and f.active = true)
+);
 create policy "public read tefilot" on tefilot for select using (active = true);
 create policy "public read content_version" on content_version for select using (true);
