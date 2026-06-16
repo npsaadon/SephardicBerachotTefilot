@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "bread",
+    "name": "Bread / Hamotzi",
+    "icon": "🍞",
+    "sortOrder": 1
+  },
+  {
+    "slug": "mezonot",
+    "name": "Mezonot",
+    "icon": "🥐",
+    "sortOrder": 2
+  },
+  {
+    "slug": "wine",
+    "name": "Wine & Grape Juice",
+    "icon": "🍷",
+    "sortOrder": 3
+  },
+  {
+    "slug": "fruits",
+    "name": "Fruits",
+    "icon": "🍎",
+    "sortOrder": 4
+  },
+  {
+    "slug": "vegetables",
+    "name": "Vegetables",
+    "icon": "🥕",
+    "sortOrder": 5
+  },
+  {
+    "slug": "drinks",
+    "name": "Drinks",
+    "icon": "🥤",
+    "sortOrder": 6
+  },
+  {
+    "slug": "meat-fish-eggs",
+    "name": "Meat / Fish / Eggs",
+    "icon": "🍗",
+    "sortOrder": 7
+  },
+  {
+    "slug": "dairy",
+    "name": "Dairy",
+    "icon": "🧀",
+    "sortOrder": 8
+  },
+  {
+    "slug": "snacks",
+    "name": "Snacks",
+    "icon": "🍿",
+    "sortOrder": 9
+  },
+  {
+    "slug": "desserts",
+    "name": "Desserts",
+    "icon": "🍰",
+    "sortOrder": 10
+  },
+  {
+    "slug": "cooked-foods",
+    "name": "Cooked Foods",
+    "icon": "🍲",
+    "sortOrder": 11
+  },
+  {
+    "slug": "mixed-foods",
+    "name": "Mixed Foods",
+    "icon": "🍕",
+    "sortOrder": 12
+  },
+  {
+    "slug": "questionable",
+    "name": "Questionable Foods",
+    "icon": "❓",
+    "sortOrder": 13
+  },
+  {
+    "slug": "sephardic-specific",
+    "name": "Sephardic-Specific Cases",
+    "icon": "✡️",
+    "sortOrder": 14
+  }
+]

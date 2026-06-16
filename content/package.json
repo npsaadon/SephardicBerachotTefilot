@@ -7,7 +7,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "validate": "tsx src/validate.ts",
-    "build:db": "tsx src/buildDb.ts"
+    "build:db": "tsx src/buildDb.ts",
+    "export:app": "tsx src/exportApp.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.8.1",

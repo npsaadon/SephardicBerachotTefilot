@@ -1,0 +1,79 @@
+[
+  {
+    "key": "hamotzi",
+    "nameEn": "HaMotzi",
+    "nameTranslit": "Hamotzi lechem min ha'aretz",
+    "hebrew": "הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ",
+    "type": "rishona"
+  },
+  {
+    "key": "mezonot",
+    "nameEn": "Borei Minei Mezonot",
+    "nameTranslit": "Borei minei mezonot",
+    "hebrew": "בּוֹרֵא מִינֵי מְזוֹנוֹת",
+    "type": "rishona"
+  },
+  {
+    "key": "hagafen",
+    "nameEn": "Borei Pri HaGafen",
+    "nameTranslit": "Borei peri hagafen",
+    "hebrew": "בּוֹרֵא פְּרִי הַגָּפֶן",
+    "type": "rishona"
+  },
+  {
+    "key": "haetz",
+    "nameEn": "Borei Pri HaEtz",
+    "nameTranslit": "Borei peri ha'etz",
+    "hebrew": "בּוֹרֵא פְּרִי הָעֵץ",
+    "type": "rishona"
+  },
+  {
+    "key": "haadama",
+    "nameEn": "Borei Pri HaAdama",
+    "nameTranslit": "Borei peri ha'adama",
+    "hebrew": "בּוֹרֵא פְּרִי הָאֲדָמָה",
+    "type": "rishona"
+  },
+  {
+    "key": "shehakol",
+    "nameEn": "Shehakol",
+    "nameTranslit": "Shehakol nihye bidvaro",
+    "hebrew": "שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ",
+    "type": "rishona"
+  },
+  {
+    "key": "birkat_hamazon",
+    "nameEn": "Birkat HaMazon",
+    "nameTranslit": "Birkat hamazon",
+    "hebrew": "בִּרְכַּת הַמָּזוֹן",
+    "type": "acharona"
+  },
+  {
+    "key": "almichya",
+    "nameEn": "Al HaMichya",
+    "nameTranslit": "Al hamichya v'al hakalkala",
+    "hebrew": "עַל הַמִּחְיָה וְעַל הַכַּלְכָּלָה",
+    "type": "acharona"
+  },
+  {
+    "key": "algefen",
+    "nameEn": "Al HaGefen",
+    "nameTranslit": "Al hagefen v'al peri hagefen",
+    "hebrew": "עַל הַגֶּפֶן וְעַל פְּרִי הַגֶּפֶן",
+    "type": "acharona"
+  },
+  {
+    "key": "haetz_acharona",
+    "nameEn": "Al HaEtz",
+    "nameTranslit": "Al ha'etz v'al peri ha'etz",
+    "hebrew": "עַל הָעֵץ וְעַל פְּרִי הָעֵץ",
+    "type": "acharona"
+  },
+  {
+    "key": "nefashot",
+    "nameEn": "Borei Nefashot",
+    "nameTranslit": "Borei nefashot rabbot",
+    "hebrew": "בּוֹרֵא נְפָשׁוֹת רַבּוֹת",
+    "type": "acharona"
+  }
+]
