@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "apple",
+    "name": "Apple",
+    "aliases": ["apples", "green apple", "red apple"],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard fruit beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pizza",
+    "name": "Pizza",
+    "aliases": ["cheese pizza", "slice of pizza"],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "If eaten as a full meal or in large quantity, may require Hamotzi and Birkat HaMazon. Ask a rabbi for unclear cases.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "coffee",
+    "name": "Coffee",
+    "aliases": ["iced coffee", "hot coffee", "espresso"],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Borei Nefashot only if a revi'it is drunk within the required time.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "tefilat-haderech",
+    "title": "Tefilat HaDerech",
+    "category": "Travel",
+    "hebrew": "יְהִי רָצוֹן מִלְּפָנֶיךָ ה' אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ שֶׁתּוֹלִיכֵנוּ לְשָׁלוֹם",
+    "translit": "Yehi ratzon milfanecha Adonai Eloheinu velohei avoteinu shetolichenu leshalom",
+    "english": "May it be Your will, Lord our God and God of our fathers, that You lead us toward peace…",
+    "notes": "Recited once per journey when traveling beyond the outskirts of the city. Pending rabbinic review.",
+    "whenToSay": "After leaving the city limits, on a journey of at least a parasang.",
+    "nusach": "edot_hamizrach",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "audioUrl": null,
+    "sortOrder": 1,
+    "active": true
+  }
+]
