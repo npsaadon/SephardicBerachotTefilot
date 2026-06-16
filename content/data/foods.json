@@ -2,7 +2,11 @@
   {
     "slug": "apple",
     "name": "Apple",
-    "aliases": ["apples", "green apple", "red apple"],
+    "aliases": [
+      "apples",
+      "green apple",
+      "red apple"
+    ],
     "categorySlug": "fruits",
     "berachaBefore": "haetz",
     "berachaAfter": "nefashot",
@@ -18,7 +22,10 @@
   {
     "slug": "pizza",
     "name": "Pizza",
-    "aliases": ["cheese pizza", "slice of pizza"],
+    "aliases": [
+      "cheese pizza",
+      "slice of pizza"
+    ],
     "categorySlug": "mixed-foods",
     "berachaBefore": "mezonot",
     "berachaAfter": "almichya",
@@ -34,7 +41,11 @@
   {
     "slug": "coffee",
     "name": "Coffee",
-    "aliases": ["iced coffee", "hot coffee", "espresso"],
+    "aliases": [
+      "iced coffee",
+      "hot coffee",
+      "espresso"
+    ],
     "categorySlug": "drinks",
     "berachaBefore": "shehakol",
     "berachaAfter": "nefashot",
@@ -42,6 +53,4485 @@
     "notes": "Borei Nefashot only if a revi'it is drunk within the required time.",
     "amountAcharona": "revi'it",
     "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "orange",
+    "name": "Orange",
+    "aliases": [
+      "orange",
+      "oranges",
+      "navel orange",
+      "valencia orange"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pear",
+    "name": "Pear",
+    "aliases": [
+      "pear",
+      "pears",
+      "bartlett pear",
+      "anjou pear"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "peach",
+    "name": "Peach",
+    "aliases": [
+      "peach",
+      "peaches"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "nectarine",
+    "name": "Nectarine",
+    "aliases": [
+      "nectarine",
+      "nectarines"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "plum",
+    "name": "Plum",
+    "aliases": [
+      "plum",
+      "plums",
+      "prune plum"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "apricot",
+    "name": "Apricot",
+    "aliases": [
+      "apricot",
+      "apricots",
+      "mishmish"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cherry",
+    "name": "Cherry",
+    "aliases": [
+      "cherry",
+      "cherries",
+      "bing cherry"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "mango",
+    "name": "Mango",
+    "aliases": [
+      "mango",
+      "mangos",
+      "mangoes"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lemon",
+    "name": "Lemon",
+    "aliases": [
+      "lemon",
+      "lemons"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "A lemon is haetz when eaten as a fruit, but most people do not eat it plain; eaten by itself one says haetz, and most poskim hold no beracha acharona is needed unless a kezayit is consumed within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lime",
+    "name": "Lime",
+    "aliases": [
+      "lime",
+      "limes"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "grapefruit",
+    "name": "Grapefruit",
+    "aliases": [
+      "grapefruit",
+      "grapefruits"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "tangerine",
+    "name": "Tangerine",
+    "aliases": [
+      "tangerine",
+      "tangerines",
+      "mandarin",
+      "clementine",
+      "clementines"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "persimmon",
+    "name": "Persimmon",
+    "aliases": [
+      "persimmon",
+      "persimmons",
+      "sharon fruit"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "guava",
+    "name": "Guava",
+    "aliases": [
+      "guava",
+      "guavas"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lychee",
+    "name": "Lychee",
+    "aliases": [
+      "lychee",
+      "lychees",
+      "litchi"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kiwi",
+    "name": "Kiwi",
+    "aliases": [
+      "kiwi",
+      "kiwis",
+      "kiwifruit"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "coconut",
+    "name": "Coconut",
+    "aliases": [
+      "coconut",
+      "coconuts",
+      "coconut flesh"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Coconut flesh is haetz according to the accepted Sephardic ruling. Coconut water is a separate question and is generally shehakol.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "papaya",
+    "name": "Papaya",
+    "aliases": [
+      "papaya",
+      "papayas"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Many Sephardic poskim rule papaya is haetz, though some treat the soft-stemmed varieties as haadama; the common practice is haetz.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pomegranate",
+    "name": "Pomegranate",
+    "aliases": [
+      "pomegranate",
+      "pomegranates",
+      "rimon"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "One of the seven species of the Land of Israel; the beracha acharona is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "fig",
+    "name": "Fig",
+    "aliases": [
+      "fig",
+      "figs",
+      "te'ena",
+      "teena"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "One of the seven species of the Land of Israel; the beracha acharona is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "date",
+    "name": "Date",
+    "aliases": [
+      "date",
+      "dates",
+      "tamar",
+      "medjool",
+      "deglet noor"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "One of the seven species of the Land of Israel; the beracha acharona is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "olive",
+    "name": "Olive",
+    "aliases": [
+      "olive",
+      "olives",
+      "zayit",
+      "green olive",
+      "black olive"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "One of the seven species of the Land of Israel; the beracha acharona is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "green-grapes",
+    "name": "Green Grapes",
+    "aliases": [
+      "green grapes",
+      "green grape",
+      "white grapes",
+      "thompson grapes"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "Grapes are one of the seven species; the beracha acharona for the fruit is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time. Grape juice or wine has its own beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "red-grapes",
+    "name": "Red Grapes",
+    "aliases": [
+      "red grapes",
+      "red grape",
+      "purple grapes",
+      "concord grapes"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "note",
+    "notes": "Grapes are one of the seven species; the beracha acharona for the fruit is Al HaEtz (me'ein shalosh) when a kezayit is eaten within the time. Grape juice or wine has its own beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "banana",
+    "name": "Banana",
+    "aliases": [
+      "banana",
+      "bananas"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Although it grows on a tall plant, the banana plant is not a tree halachically, so the beracha is haadama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pineapple",
+    "name": "Pineapple",
+    "aliases": [
+      "pineapple",
+      "pineapples"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Pineapple grows on a low ground plant and is haadama, not haetz.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "watermelon",
+    "name": "Watermelon",
+    "aliases": [
+      "watermelon",
+      "watermelons",
+      "avatiach"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cantaloupe",
+    "name": "Cantaloupe",
+    "aliases": [
+      "cantaloupe",
+      "cantaloupes",
+      "rockmelon"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "honeydew-melon",
+    "name": "Honeydew Melon",
+    "aliases": [
+      "honeydew",
+      "honeydew melon",
+      "melon",
+      "melons"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "strawberry",
+    "name": "Strawberry",
+    "aliases": [
+      "strawberry",
+      "strawberries"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Strawberries grow on a low annual plant and are haadama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "blueberry",
+    "name": "Blueberry",
+    "aliases": [
+      "blueberry",
+      "blueberries"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Blueberries grow on a perennial bush and are haetz according to the common Sephardic practice.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "raspberry",
+    "name": "Raspberry",
+    "aliases": [
+      "raspberry",
+      "raspberries"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Raspberries grow on a perennial cane that does not fully wither each year and are treated as haetz by the common Sephardic practice.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "blackberry",
+    "name": "Blackberry",
+    "aliases": [
+      "blackberry",
+      "blackberries"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Blackberries grow on a perennial cane and are treated as haetz by the common Sephardic practice.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "avocado",
+    "name": "Avocado",
+    "aliases": [
+      "avocado",
+      "avocados",
+      "avocadoes"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "passion-fruit",
+    "name": "Passion Fruit",
+    "aliases": [
+      "passion fruit",
+      "passionfruit",
+      "passion fruits"
+    ],
+    "categorySlug": "fruits",
+    "berachaBefore": "haetz",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "carrot",
+    "name": "Carrot",
+    "aliases": [
+      "carrots",
+      "baby carrots",
+      "raw carrot"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha, whether raw or cooked.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cucumber",
+    "name": "Cucumber",
+    "aliases": [
+      "cucumbers",
+      "pickling cucumber",
+      "english cucumber"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "tomato",
+    "name": "Tomato",
+    "aliases": [
+      "tomatoes",
+      "cherry tomato",
+      "roma tomato"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Although a fruit botanically, halacha treats the tomato as Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lettuce",
+    "name": "Lettuce",
+    "aliases": [
+      "romaine",
+      "iceberg lettuce",
+      "salad leaves"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha. Check carefully for insects before eating.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "onion",
+    "name": "Onion",
+    "aliases": [
+      "onions",
+      "raw onion",
+      "red onion",
+      "white onion"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "bell-pepper",
+    "name": "Bell Pepper",
+    "aliases": [
+      "bell peppers",
+      "red pepper",
+      "green pepper",
+      "capsicum"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "broccoli",
+    "name": "Broccoli",
+    "aliases": [
+      "broccoli florets",
+      "steamed broccoli"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha. Check carefully for insects.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cauliflower",
+    "name": "Cauliflower",
+    "aliases": [
+      "cauliflower florets",
+      "steamed cauliflower"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha. Check carefully for insects.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "peas",
+    "name": "Peas",
+    "aliases": [
+      "green peas",
+      "garden peas",
+      "sweet peas"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "green-beans",
+    "name": "Green Beans",
+    "aliases": [
+      "string beans",
+      "fresh beans",
+      "haricot vert"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "corn",
+    "name": "Corn",
+    "aliases": [
+      "corn on the cob",
+      "sweet corn",
+      "maize",
+      "corn kernels"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Fresh corn on the cob or kernels are Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "potato",
+    "name": "Potato",
+    "aliases": [
+      "potatoes",
+      "boiled potato",
+      "baked potato",
+      "white potato"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha, whether boiled or baked.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sweet-potato",
+    "name": "Sweet Potato",
+    "aliases": [
+      "sweet potatoes",
+      "yam",
+      "baked sweet potato"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "zucchini",
+    "name": "Zucchini",
+    "aliases": [
+      "courgette",
+      "summer squash",
+      "zucchinis"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "eggplant",
+    "name": "Eggplant",
+    "aliases": [
+      "aubergine",
+      "eggplants",
+      "brinjal"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cabbage",
+    "name": "Cabbage",
+    "aliases": [
+      "green cabbage",
+      "red cabbage",
+      "shredded cabbage"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "celery",
+    "name": "Celery",
+    "aliases": [
+      "celery stalk",
+      "celery sticks"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "mushroom",
+    "name": "Mushroom",
+    "aliases": [
+      "mushrooms",
+      "button mushroom",
+      "portobello",
+      "champignon"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Mushrooms do not draw nourishment from the ground, so the beracha is Shehakol, not HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "garlic",
+    "name": "Garlic",
+    "aliases": [
+      "garlic clove",
+      "cooked garlic",
+      "roasted garlic"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "When eaten on its own, garlic is Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "squash",
+    "name": "Squash",
+    "aliases": [
+      "butternut squash",
+      "acorn squash",
+      "winter squash",
+      "pumpkin"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "spinach",
+    "name": "Spinach",
+    "aliases": [
+      "baby spinach",
+      "cooked spinach",
+      "spinach leaves"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha. Check carefully for insects.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "radish",
+    "name": "Radish",
+    "aliases": [
+      "radishes",
+      "red radish",
+      "daikon"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "beet",
+    "name": "Beet",
+    "aliases": [
+      "beets",
+      "beetroot",
+      "red beet"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kale",
+    "name": "Kale",
+    "aliases": [
+      "curly kale",
+      "kale leaves",
+      "lacinato kale"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha. Check carefully for insects.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "asparagus",
+    "name": "Asparagus",
+    "aliases": [
+      "asparagus spears",
+      "grilled asparagus"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "okra",
+    "name": "Okra",
+    "aliases": [
+      "bamya",
+      "lady fingers",
+      "okra pods"
+    ],
+    "categorySlug": "vegetables",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Standard vegetable beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "french-fries",
+    "name": "French Fries",
+    "aliases": [
+      "fries",
+      "chips",
+      "fried potatoes",
+      "potato fries"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Even though fried, French fries are still recognizably potato and remain Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "mashed-potatoes",
+    "name": "Mashed Potatoes",
+    "aliases": [
+      "mashed potato",
+      "potato mash",
+      "pomme puree"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Mashed potato remains Borei Pri HaAdama even though its form has changed.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "roasted-vegetables",
+    "name": "Roasted Vegetables",
+    "aliases": [
+      "roasted veggies",
+      "oven vegetables",
+      "grilled vegetables"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "A mix of roasted vegetables that grow in the ground is Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "vegetable-soup",
+    "name": "Vegetable Soup",
+    "aliases": [
+      "veggie soup",
+      "minestrone without pasta",
+      "mixed vegetable soup"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "When eating the vegetables, recite Borei Pri HaAdama. If it is mostly broth and the vegetables are secondary, some recite Shehakol on the liquid; ask a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "potato-chips",
+    "name": "Potato Chips",
+    "aliases": [
+      "crisps",
+      "chip",
+      "potato crisps",
+      "kettle chips"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Many Sephardic poskim hold potato chips remain Borei Pri HaAdama since the potato is still recognizable; some are stringent. Borei Nefashot only on a kezayit.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "stuffed-grape-leaves",
+    "name": "Stuffed Grape Leaves (Yaprak)",
+    "aliases": [
+      "dolma",
+      "yaprak",
+      "stuffed vine leaves",
+      "warak enab"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Grape leaves stuffed with rice and vegetables: when the rice is the main component some recite Mezonot, but when treated as a vegetable dish the common practice is HaAdama. Ask a rabbi if unsure.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "fried-cauliflower",
+    "name": "Fried Cauliflower",
+    "aliases": [
+      "fried cauli",
+      "battered cauliflower"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "The cauliflower remains the primary food, so the beracha is Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "corn-snack-puffs",
+    "name": "Corn Snack Puffs",
+    "aliases": [
+      "bamba",
+      "cheese puffs",
+      "corn puffs",
+      "corn curls"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "On highly processed puffed corn snacks where the corn has lost its form, many recite Shehakol; others hold HaAdama. Ask a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "ratatouille",
+    "name": "Ratatouille",
+    "aliases": [
+      "vegetable stew",
+      "stewed vegetables",
+      "veggie stew"
+    ],
+    "categorySlug": "cooked-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "A cooked stew of eggplant, zucchini, peppers and tomato is Borei Pri HaAdama.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "white-bread",
+    "name": "White Bread",
+    "aliases": [
+      "sliced bread",
+      "sandwich bread",
+      "loaf bread"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "whole-wheat-bread",
+    "name": "Whole Wheat Bread",
+    "aliases": [
+      "wholemeal bread",
+      "brown bread",
+      "whole grain bread"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pita-bread",
+    "name": "Pita Bread",
+    "aliases": [
+      "pita",
+      "pocket bread",
+      "khubz"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "baguette",
+    "name": "Baguette",
+    "aliases": [
+      "french bread",
+      "french stick",
+      "batard"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "challah",
+    "name": "Challah",
+    "aliases": [
+      "shabbat bread",
+      "kitke",
+      "berches"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "bagel",
+    "name": "Bagel",
+    "aliases": [
+      "beigel",
+      "boiled bread ring"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "dinner-roll",
+    "name": "Dinner Roll",
+    "aliases": [
+      "bread roll",
+      "bun",
+      "kaiser roll"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "rye-bread",
+    "name": "Rye Bread",
+    "aliases": [
+      "pumpernickel",
+      "dark rye",
+      "marble rye"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon. Rye is one of the five grains.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sourdough-bread",
+    "name": "Sourdough Bread",
+    "aliases": [
+      "sourdough loaf",
+      "levain bread",
+      "naturally leavened bread"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "laffa",
+    "name": "Laffa",
+    "aliases": [
+      "iraqi pita",
+      "taboon bread",
+      "saj bread"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "ciabatta",
+    "name": "Ciabatta",
+    "aliases": [
+      "italian slipper bread",
+      "ciabatta loaf"
+    ],
+    "categorySlug": "bread",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "simple",
+    "notes": "Requires netilat yadayim and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cake",
+    "name": "Cake",
+    "aliases": [
+      "sponge cake",
+      "layer cake",
+      "birthday cake"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cookies",
+    "name": "Cookies",
+    "aliases": [
+      "biscuits",
+      "chocolate chip cookies",
+      "butter cookies"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "crackers",
+    "name": "Crackers",
+    "aliases": [
+      "water crackers",
+      "saltines",
+      "cream crackers"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Made from the five grains; normally Mezonot and Al HaMichya. If eaten as a full meal in bread-like quantity, consult a rabbi, as it may require Hamotzi and Birkat HaMazon.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pretzels",
+    "name": "Pretzels",
+    "aliases": [
+      "soft pretzel",
+      "pretzel sticks",
+      "pretzel twists"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pasta",
+    "name": "Pasta",
+    "aliases": [
+      "penne",
+      "macaroni",
+      "fusilli"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from durum wheat, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "spaghetti",
+    "name": "Spaghetti",
+    "aliases": [
+      "spaghetti noodles",
+      "long pasta",
+      "vermicelli"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "noodles",
+    "name": "Noodles",
+    "aliases": [
+      "egg noodles",
+      "wheat noodles",
+      "lokshen"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "oatmeal",
+    "name": "Oatmeal",
+    "aliases": [
+      "porridge",
+      "rolled oats",
+      "oat porridge"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from oats, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "breakfast-cereal",
+    "name": "Breakfast Cereal",
+    "aliases": [
+      "cornflakes",
+      "bran flakes",
+      "wheat cereal"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "When made from the five grains (wheat, oats, etc.), Mezonot and Al HaMichya. Note: corn-based cereals are Shehakol or Haadama; check the grain ingredient.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "granola",
+    "name": "Granola",
+    "aliases": [
+      "muesli",
+      "toasted oat clusters",
+      "granola cereal"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Primarily oats, one of the five grains. Recite Al HaMichya only if a kezayit of grain is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "muffin",
+    "name": "Muffin",
+    "aliases": [
+      "blueberry muffin",
+      "english muffin top",
+      "bran muffin"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "croissant",
+    "name": "Croissant",
+    "aliases": [
+      "butter croissant",
+      "crescent roll",
+      "viennoiserie"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Pas haba'ah b'kisnin made with fat-enriched dough; Mezonot and Al HaMichya. If eaten as a full bread-like meal, consult a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pancakes",
+    "name": "Pancakes",
+    "aliases": [
+      "flapjacks",
+      "hotcakes",
+      "griddle cakes"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "waffles",
+    "name": "Waffles",
+    "aliases": [
+      "belgian waffle",
+      "toaster waffle",
+      "gaufre"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pie-crust",
+    "name": "Pie Crust",
+    "aliases": [
+      "pastry shell",
+      "tart crust",
+      "shortcrust"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Recite Al HaMichya only if a kezayit of crust is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "matzah",
+    "name": "Matzah",
+    "aliases": [
+      "matza",
+      "unleavened bread cracker",
+      "matzo"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Outside the Pesach Seder context, matzah eaten as a snack is treated by many as Mezonot/Al HaMichya, but when set as a meal it is Hamotzi/Birkat HaMazon. During Pesach and at the Seder it is Hamotzi. Consult a rabbi for your situation.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "bourekas",
+    "name": "Bourekas",
+    "aliases": [
+      "borekas",
+      "savory pastry",
+      "filo pastry puff"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Dough made from the five grains; normally Mezonot and Al HaMichya. If eaten as a full meal in bread-like quantity, consult a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "baklava",
+    "name": "Baklava",
+    "aliases": [
+      "baklawa",
+      "phyllo nut pastry",
+      "honey pastry"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Phyllo dough from wheat, one of the five grains. Recite Al HaMichya only if a kezayit of dough is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "donut",
+    "name": "Donut",
+    "aliases": [
+      "doughnut",
+      "sufganiyah",
+      "fried dough ring"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Fried sweet dough from wheat, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "couscous",
+    "name": "Couscous",
+    "aliases": [
+      "semolina couscous",
+      "moghrabieh",
+      "maftoul"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from semolina wheat, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "bulgur",
+    "name": "Bulgur",
+    "aliases": [
+      "cracked wheat",
+      "burghul",
+      "tabbouleh grain"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Parboiled cracked wheat, one of the five grains. Recite Al HaMichya only if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "plain-rice",
+    "name": "Plain Rice",
+    "aliases": [
+      "white rice",
+      "steamed rice",
+      "boiled rice"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Sephardic practice: Mezonot before, but Borei Nefashot after (not Al HaMichya), as rice is not one of the five grains.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "fried-rice",
+    "name": "Fried Rice",
+    "aliases": [
+      "stir-fried rice",
+      "egg fried rice",
+      "vegetable fried rice"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Sephardic practice: Mezonot before, but Borei Nefashot after (not Al HaMichya), as rice is not one of the five grains. May contain mixed ingredients (egg, vegetables); the rice is generally the primary food.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "rice-cakes",
+    "name": "Rice Cakes",
+    "aliases": [
+      "puffed rice cake",
+      "brown rice cake",
+      "rice crisp cake"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Sephardic practice: Mezonot before, but Borei Nefashot after (not Al HaMichya), as rice is not one of the five grains.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "basmati-rice",
+    "name": "Basmati Rice",
+    "aliases": [
+      "long grain rice",
+      "indian rice",
+      "persian rice"
+    ],
+    "categorySlug": "mezonot",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Sephardic practice: Mezonot before, but Borei Nefashot after (not Al HaMichya), as rice is not one of the five grains.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "corn-chips",
+    "name": "Corn Chips",
+    "aliases": [
+      "tortilla chips",
+      "nachos",
+      "corn tortilla crisps"
+    ],
+    "categorySlug": "snacks",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Note: Made from corn; Borei Pri HaAdama is recited. Some authorities say Shehakol since the corn is significantly processed; consult a rabbi if uncertain.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "popcorn",
+    "name": "Popcorn",
+    "aliases": [
+      "popped corn",
+      "buttered popcorn",
+      "caramel corn"
+    ],
+    "categorySlug": "snacks",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Made from corn kernels; Borei Pri HaAdama is recited, followed by Borei Nefashot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pretzel-snack-bites",
+    "name": "Pretzel Snack Bites",
+    "aliases": [
+      "mini pretzels",
+      "pretzel nuggets",
+      "pretzel crisps"
+    ],
+    "categorySlug": "snacks",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "Made from wheat flour, one of the five grains. Mezonot before and Al HaMichya after if a kezayit is eaten within the time.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "wheat-crackers-snack",
+    "name": "Wheat Crackers (Snack)",
+    "aliases": [
+      "snack crackers",
+      "cheese crackers",
+      "graham crackers"
+    ],
+    "categorySlug": "snacks",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Made from the five grains; normally Mezonot and Al HaMichya as a snack (pas haba'ah b'kisnin). If eaten as a full meal in bread-like quantity, consult a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "rice-snack-crackers",
+    "name": "Rice Snack Crackers",
+    "aliases": [
+      "rice crackers",
+      "japanese rice crackers",
+      "senbei"
+    ],
+    "categorySlug": "snacks",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Sephardic practice: Mezonot before, but Borei Nefashot after (not Al HaMichya), as rice is not one of the five grains.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "water",
+    "name": "Water",
+    "aliases": [
+      "still water",
+      "mineral water",
+      "tap water",
+      "bottled water"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Shehakol is recited on water only when drinking to quench thirst, not merely to wash down food. Borei Nefashot only if a revi'it is drunk.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sparkling-water",
+    "name": "Sparkling Water",
+    "aliases": [
+      "soda water",
+      "seltzer",
+      "carbonated water",
+      "club soda",
+      "fizzy water"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cola",
+    "name": "Cola",
+    "aliases": [
+      "coke",
+      "pepsi",
+      "cola soda"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "soda",
+    "name": "Soda",
+    "aliases": [
+      "soft drink",
+      "pop",
+      "fizzy drink",
+      "soda pop"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lemonade",
+    "name": "Lemonade",
+    "aliases": [
+      "limonana",
+      "lemon drink",
+      "fresh lemonade"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Shehakol because it is water flavored with lemon and sugar, not pure squeezed fruit juice.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "iced-tea",
+    "name": "Iced Tea",
+    "aliases": [
+      "ice tea",
+      "cold tea",
+      "sweet tea"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "tea",
+    "name": "Tea",
+    "aliases": [
+      "hot tea",
+      "black tea",
+      "green tea",
+      "cup of tea"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Borei Nefashot only if a revi'it is drunk within the required time.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "herbal-tea",
+    "name": "Herbal Tea",
+    "aliases": [
+      "chamomile tea",
+      "mint tea",
+      "tisane",
+      "infusion"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hot-chocolate",
+    "name": "Hot Chocolate",
+    "aliases": [
+      "hot cocoa",
+      "cocoa drink",
+      "drinking chocolate"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "milkshake",
+    "name": "Milkshake",
+    "aliases": [
+      "shake",
+      "thick shake",
+      "malt shake"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Shehakol and Borei Nefashot apply. If the milkshake is thick and eaten with a spoon rather than drunk, the acharona reckoning of revi'it within the time may not be met; ask a rabbi for unclear cases.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "smoothie",
+    "name": "Smoothie",
+    "aliases": [
+      "fruit smoothie",
+      "blended drink",
+      "fruit shake"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "A smoothie made of blended whole fruit may require Haetz or Haadama (not Shehakol) if the fruit pieces are still recognizable. Shehakol applies when fully liquefied into juice. Ask a rabbi for unclear cases.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "energy-drink",
+    "name": "Energy Drink",
+    "aliases": [
+      "red bull",
+      "monster drink",
+      "sports drink"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "beer",
+    "name": "Beer",
+    "aliases": [
+      "lager",
+      "ale",
+      "draft beer",
+      "barley beer"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Although made from barley, beer is Shehakol since the grain is not eaten as such.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "whiskey",
+    "name": "Whiskey",
+    "aliases": [
+      "whisky",
+      "scotch",
+      "bourbon",
+      "arak",
+      "vodka",
+      "liquor"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Shehakol on liquor. Borei Nefashot is generally not recited after distilled spirits because a revi'it is rarely drunk at once; ask a rabbi for unclear cases.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "almond-milk",
+    "name": "Almond Milk",
+    "aliases": [
+      "almond beverage",
+      "nut milk"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Plant-based milk substitute is Shehakol.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "soy-milk",
+    "name": "Soy Milk",
+    "aliases": [
+      "soya milk",
+      "soybean drink"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "oat-milk",
+    "name": "Oat Milk",
+    "aliases": [
+      "oat beverage",
+      "oat drink"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Although made from oats, oat milk is Shehakol since it is a thin beverage and the grain is not eaten as such.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "orange-juice",
+    "name": "Orange Juice",
+    "aliases": [
+      "oj",
+      "fresh orange juice",
+      "squeezed orange juice"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Juice squeezed from fruit (other than grapes) is Shehakol, not Haetz.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "apple-juice",
+    "name": "Apple Juice",
+    "aliases": [
+      "pressed apple juice",
+      "cider"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Juice squeezed from fruit (other than grapes) is Shehakol, not Haetz.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pomegranate-juice",
+    "name": "Pomegranate Juice",
+    "aliases": [
+      "pressed pomegranate juice"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Juice squeezed from fruit (other than grapes) is Shehakol, not Haetz.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "decaf-coffee",
+    "name": "Decaf Coffee",
+    "aliases": [
+      "decaffeinated coffee",
+      "decaf"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Borei Nefashot only if a revi'it is drunk within the required time.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "latte",
+    "name": "Latte",
+    "aliases": [
+      "cafe latte",
+      "milk coffee"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Both the milk and the coffee are Shehakol, so a single Shehakol covers the whole drink.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cappuccino",
+    "name": "Cappuccino",
+    "aliases": [
+      "capuccino",
+      "foamed milk coffee"
+    ],
+    "categorySlug": "drinks",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "wine",
+    "name": "Wine",
+    "aliases": [
+      "red wine",
+      "white wine",
+      "kiddush wine",
+      "yayin"
+    ],
+    "categorySlug": "wine",
+    "berachaBefore": "hagafen",
+    "berachaAfter": "algefen",
+    "complexity": "simple",
+    "notes": "Wine has its own beracha, Borei Peri HaGefen, and Al HaGefen afterward.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "grape-juice",
+    "name": "Grape Juice",
+    "aliases": [
+      "concord grape juice",
+      "kosher grape juice",
+      "mitz anavim"
+    ],
+    "categorySlug": "wine",
+    "berachaBefore": "hagafen",
+    "berachaAfter": "algefen",
+    "complexity": "simple",
+    "notes": "Grape juice, unlike other fruit juices, takes Borei Peri HaGefen and Al HaGefen.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sparkling-wine",
+    "name": "Sparkling Wine",
+    "aliases": [
+      "champagne",
+      "prosecco",
+      "spumante"
+    ],
+    "categorySlug": "wine",
+    "berachaBefore": "hagafen",
+    "berachaAfter": "algefen",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "milk",
+    "name": "Milk",
+    "aliases": [
+      "cow milk",
+      "whole milk",
+      "skim milk",
+      "glass of milk"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Milk drunk as a beverage is Shehakol; Borei Nefashot only if a revi'it is drunk.",
+    "amountAcharona": "revi'it",
+    "timeAcharona": "drunk in the normal manner",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cheese",
+    "name": "Cheese",
+    "aliases": [
+      "yellow cheese",
+      "sliced cheese",
+      "melted cheese"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hard-cheese",
+    "name": "Hard Cheese",
+    "aliases": [
+      "aged cheese",
+      "parmesan",
+      "cheddar",
+      "gouda"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cottage-cheese",
+    "name": "Cottage Cheese",
+    "aliases": [
+      "curd cheese",
+      "gvina levana"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cream-cheese",
+    "name": "Cream Cheese",
+    "aliases": [
+      "soft cheese spread",
+      "philadelphia cheese"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "yogurt",
+    "name": "Yogurt",
+    "aliases": [
+      "yoghurt",
+      "greek yogurt",
+      "plain yogurt"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Plain yogurt is Shehakol. Fruit-on-the-bottom or fruit-mixed yogurt may warrant a separate beracha on a significant piece of fruit; ask a rabbi for unclear cases.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "butter",
+    "name": "Butter",
+    "aliases": [
+      "dairy butter",
+      "salted butter"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Butter eaten on its own is Shehakol. When spread on bread it is covered by Hamotzi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sour-cream",
+    "name": "Sour Cream",
+    "aliases": [
+      "smetana",
+      "soured cream"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "ice-cream",
+    "name": "Ice Cream",
+    "aliases": [
+      "gelato",
+      "soft serve",
+      "frozen dessert"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "Ice cream is Shehakol. Because it melts and is partly swallowed as liquid, some require a revi'it for Borei Nefashot while others reckon a kezayit; ask a rabbi for unclear cases.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "whipped-cream",
+    "name": "Whipped Cream",
+    "aliases": [
+      "whipping cream",
+      "chantilly cream",
+      "katzefet"
+    ],
+    "categorySlug": "dairy",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chicken",
+    "name": "Chicken",
+    "aliases": [
+      "cooked chicken",
+      "boiled chicken"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "roast-chicken",
+    "name": "Roast Chicken",
+    "aliases": [
+      "roasted chicken",
+      "baked chicken"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "grilled-chicken",
+    "name": "Grilled Chicken",
+    "aliases": [
+      "chicken breast grilled",
+      "barbecued chicken"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "beef",
+    "name": "Beef",
+    "aliases": [
+      "cooked beef",
+      "braised beef"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "steak",
+    "name": "Steak",
+    "aliases": [
+      "grilled steak",
+      "ribeye"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hamburger-patty",
+    "name": "Hamburger Patty",
+    "aliases": [
+      "beef patty",
+      "plain burger"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Refers to a plain meat patty without a bun. With a bun the bread is hamotzi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lamb",
+    "name": "Lamb",
+    "aliases": [
+      "lamb chop",
+      "roast lamb"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "turkey",
+    "name": "Turkey",
+    "aliases": [
+      "roast turkey",
+      "turkey breast"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "salami",
+    "name": "Salami",
+    "aliases": [
+      "kosher salami",
+      "cured sausage"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hot-dog",
+    "name": "Hot Dog",
+    "aliases": [
+      "frankfurter",
+      "kosher hot dog"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Refers to a plain hot dog sausage without a bun. With a bun the bread is hamotzi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "salmon",
+    "name": "Salmon",
+    "aliases": [
+      "cooked salmon",
+      "baked salmon"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "tuna",
+    "name": "Tuna",
+    "aliases": [
+      "canned tuna",
+      "tuna fish"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "gefilte-fish",
+    "name": "Gefilte Fish",
+    "aliases": [
+      "fish patty",
+      "ground fish loaf"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sardines",
+    "name": "Sardines",
+    "aliases": [
+      "canned sardines",
+      "tinned sardines"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "fried-fish",
+    "name": "Fried Fish",
+    "aliases": [
+      "pan fried fish",
+      "fish fillet fried"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Refers to plain fried fish. A thick batter coating eaten for its own sake may change the beracha; consult a rabbi.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "eggs",
+    "name": "Eggs",
+    "aliases": [
+      "cooked eggs",
+      "fried egg"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hard-boiled-egg",
+    "name": "Hard Boiled Egg",
+    "aliases": [
+      "boiled egg",
+      "hard cooked egg"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "omelette",
+    "name": "Omelette",
+    "aliases": [
+      "omelet",
+      "egg omelette"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "scrambled-eggs",
+    "name": "Scrambled Eggs",
+    "aliases": [
+      "scrambled egg",
+      "soft scrambled eggs"
+    ],
+    "categorySlug": "meat-fish-eggs",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chocolate",
+    "name": "Chocolate",
+    "aliases": [
+      "milk chocolate",
+      "chocolate bar"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "dark-chocolate",
+    "name": "Dark Chocolate",
+    "aliases": [
+      "bittersweet chocolate",
+      "semisweet chocolate"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "candy",
+    "name": "Candy",
+    "aliases": [
+      "hard candy",
+      "sweets"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lollipop",
+    "name": "Lollipop",
+    "aliases": [
+      "sucker",
+      "boiled sweet on a stick"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "gummy-candy",
+    "name": "Gummy Candy",
+    "aliases": [
+      "gummy bears",
+      "jelly candy"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pudding",
+    "name": "Pudding",
+    "aliases": [
+      "custard pudding",
+      "milk pudding"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "jello",
+    "name": "Jello",
+    "aliases": [
+      "jelly dessert",
+      "gelatin dessert"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "halva",
+    "name": "Halva",
+    "aliases": [
+      "halvah",
+      "sesame halva"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "marshmallow",
+    "name": "Marshmallow",
+    "aliases": [
+      "marshmallows",
+      "kosher marshmallow"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sorbet",
+    "name": "Sorbet",
+    "aliases": [
+      "fruit sorbet",
+      "sherbet"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Although fruit-flavored, sorbet is a processed frozen dessert and the beracha is shehakol.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "honey",
+    "name": "Honey",
+    "aliases": [
+      "bee honey",
+      "raw honey"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Honey eaten on its own is shehakol. When used to dip or sweeten another food, that food's beracha applies.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sugar",
+    "name": "Sugar",
+    "aliases": [
+      "white sugar",
+      "sugar cube"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "simple",
+    "notes": "Sugar eaten on its own is shehakol.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cheesecake",
+    "name": "Cheesecake",
+    "aliases": [
+      "baked cheesecake",
+      "new york cheesecake"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Mixed-component dessert: the grain crust is mezonot while the cheese filling is shehakol. Ask a rabbi which component is primary in your case.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "tiramisu",
+    "name": "Tiramisu",
+    "aliases": [
+      "coffee mascarpone cake",
+      "ladyfinger dessert"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Mixed-component dessert: grain-based ladyfingers (mezonot) layered with mascarpone cream (shehakol). Ask a rabbi which component is primary.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "brownie",
+    "name": "Brownie",
+    "aliases": [
+      "chocolate brownie",
+      "fudge brownie"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "simple",
+    "notes": "A baked flour-based dessert is mezonot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "apple-pie",
+    "name": "Apple Pie",
+    "aliases": [
+      "baked apple pie",
+      "fruit pie"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "The grain pie crust is mezonot, while the apple filling on its own would be haetz. Ask a rabbi which component is primary.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "fruit-salad",
+    "name": "Fruit Salad",
+    "aliases": [
+      "mixed fruit cup",
+      "fruit medley"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "haetz",
+    "berachaAfter": "haetz_acharona",
+    "complexity": "complex",
+    "notes": "A mix of tree fruits (haetz) and ground fruits like melon (haadama). The beracha follows the majority or most prominent fruit; ask a rabbi for a specific mix.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chocolate-covered-strawberry",
+    "name": "Chocolate-Covered Strawberry",
+    "aliases": [
+      "chocolate dipped strawberry",
+      "choc strawberry"
+    ],
+    "categorySlug": "desserts",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Mixed-component dessert: the strawberry (haadama) is typically the primary food with the chocolate (shehakol) as a coating. Ask a rabbi which component is primary in your case.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sandwich-bread",
+    "name": "Sandwich (on bread)",
+    "aliases": [
+      "sandwich",
+      "deli sandwich",
+      "club sandwich",
+      "cold cut sandwich"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "Made with real bread, the bread is the ikar and covers the filling. Wash netilat yadayim with a beracha, say HaMotzi, and recite Birkat HaMazon afterward if a kezayit of bread was eaten.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sub-sandwich",
+    "name": "Sub / Hero Sandwich",
+    "aliases": [
+      "sub",
+      "hero",
+      "hoagie",
+      "grinder",
+      "baguette sandwich"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "Built on a real bread roll, so the bread is primary. Requires netilat yadayim, HaMotzi, and Birkat HaMazon. The meat, cheese, and vegetables are secondary to the bread.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hamburger-with-bun",
+    "name": "Hamburger (with bun)",
+    "aliases": [
+      "hamburger",
+      "cheeseburger",
+      "burger with bun",
+      "beef burger"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "Eaten inside a real bread bun, the bread is the ikar. Wash netilat yadayim, say HaMotzi, and bentch Birkat HaMazon. A patty eaten alone without bun would be shehakol/nefashot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "hot-dog-in-bun",
+    "name": "Hot Dog (in bun)",
+    "aliases": [
+      "hot dog",
+      "frankfurter in bun",
+      "hotdog bun"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "The bun is real bread and is the ikar; the sausage is secondary. Requires netilat yadayim, HaMotzi, and Birkat HaMazon. A hot dog eaten without a bun is shehakol/nefashot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "wrap",
+    "name": "Wrap (flour tortilla)",
+    "aliases": [
+      "wrap",
+      "tortilla wrap",
+      "chicken wrap",
+      "burrito wrap"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "complex",
+    "notes": "A soft flour tortilla used as bread to enclose a meal is generally treated as bread (HaMotzi, netilat yadayim, Birkat HaMazon). Some hold a thin tortilla is mezonot when eaten as a snack; when eaten as a meal-sized portion treat as bread. Consult a rav for borderline cases.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "pita-sandwich",
+    "name": "Pita Sandwich",
+    "aliases": [
+      "pita sandwich",
+      "stuffed pita",
+      "pita pocket"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "Standard pita is real bread, so the pita is the ikar. Wash netilat yadayim, say HaMotzi, and recite Birkat HaMazon on a kezayit. The fillings are covered by the bread's beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "falafel-in-pita",
+    "name": "Falafel in Pita",
+    "aliases": [
+      "falafel sandwich",
+      "falafel pita",
+      "falafel in laffa"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "note",
+    "notes": "When served inside a real pita or laffa, the bread is the ikar: netilat yadayim, HaMotzi, and Birkat HaMazon. Falafel balls eaten plain (without bread) are haadama, since chickpeas are a ground-growing legume.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sushi",
+    "name": "Sushi",
+    "aliases": [
+      "sushi",
+      "maki",
+      "nigiri",
+      "sushi roll",
+      "california roll"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "By the Sephardic ruling, cooked rice is mezonot, and in sushi the rice is the ikar, so the beracha is mezonot before and nefashot after (not al hamichya, since rice is not one of the five grains). The fish, seaweed (nori), and vegetables are secondary to the rice. If one eats a piece that is essentially only fish, that piece is shehakol.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "schnitzel",
+    "name": "Schnitzel (breaded cutlet)",
+    "aliases": [
+      "schnitzel",
+      "breaded chicken cutlet",
+      "breaded cutlet",
+      "milanesa"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "note",
+    "notes": "The meat or chicken is the ikar and the breadcrumb coating is secondary (it serves the meat, like a coating for flavor and texture), so the beracha is shehakol before and nefashot after. The breading does not change the beracha because it is not eaten for its own sake.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "cereal-with-milk",
+    "name": "Cereal with Milk",
+    "aliases": [
+      "cereal",
+      "breakfast cereal",
+      "cereal and milk",
+      "muesli with milk"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "If the cereal is made from one of the five grains (wheat, oats, etc.), the cereal is the ikar: mezonot before and al hamichya after (on a kezayit eaten within the time limit). The milk is secondary. Corn flakes and rice cereals are not from the five grains, so they would be shehakol/nefashot or borderline; check the ingredients and consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chicken-soup-with-noodles",
+    "name": "Chicken Soup with Noodles",
+    "aliases": [
+      "noodle soup",
+      "chicken noodle soup",
+      "soup with noodles",
+      "lokshen soup"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "If there is a meaningful amount of noodles (made from wheat) in the soup, the noodles are treated as the ikar and the beracha is mezonot; al hamichya is said after if a kezayit of noodles is eaten within the time limit. If the noodles are minimal and the broth is the ikar, the beracha is shehakol/nefashot. The exact ruling depends on the proportion.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chicken-soup-with-rice",
+    "name": "Chicken Soup with Rice",
+    "aliases": [
+      "rice soup",
+      "chicken soup and rice",
+      "soup with rice"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "When rice is a significant component, the rice is the ikar (rice is mezonot per the Sephardic rule), so the beracha is mezonot before and nefashot after (not al hamichya, since rice is not a five-grain). If the rice is only a minor garnish and the broth is primary, the beracha would be shehakol/nefashot. Depends on proportion.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "minestrone-with-pasta",
+    "name": "Minestrone (with pasta)",
+    "aliases": [
+      "minestrone",
+      "vegetable soup with pasta",
+      "pasta soup"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "If the soup contains a kezayit of pasta (wheat) and the pasta is a meaningful component, it is treated as mezonot, and al hamichya is said after if a kezayit is eaten in the time limit. If the vegetables and beans are clearly the ikar with only token pasta, the beracha may be haadama or shehakol. The proportions determine the ruling.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "salad-with-croutons",
+    "name": "Salad with Croutons",
+    "aliases": [
+      "caesar salad",
+      "garden salad with croutons",
+      "crouton salad"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "haadama",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "The vegetables are the ikar and the croutons are typically secondary garnish, so the beracha is haadama before and nefashot after. If one wishes to eat a significant amount of croutons as a food in their own right, one should also say mezonot on them (ideally on a separate crouton first). If the salad has eggs/tuna and is primarily protein, it may be shehakol; depends on composition.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "yogurt-with-granola",
+    "name": "Yogurt with Granola",
+    "aliases": [
+      "yogurt parfait",
+      "granola yogurt",
+      "yogurt and granola"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "This has two notable components. If the yogurt is the ikar and the granola is a topping, say shehakol on the yogurt (nefashot after). If one wants to eat a meaningful amount of granola (oats are a five-grain), it is best to say mezonot on a piece of granola first, then shehakol on the yogurt, then proceed. When both are eaten together as primary, many recite both berachot to be safe; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "ice-cream-cone",
+    "name": "Ice Cream Cone",
+    "aliases": [
+      "ice cream cone",
+      "cone",
+      "gelato cone",
+      "waffle cone"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "The ice cream is shehakol and is usually the ikar; the cone is mezonot but is generally considered a holder/secondary, so shehakol on the ice cream covers it. If one specifically wants to eat the cone as a food (e.g. a thick sugar cone enjoyed for its own sake), it is best to say mezonot on a bit of the cone first, then shehakol on the ice cream. Nefashot after.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "granola-bar",
+    "name": "Granola Bar",
+    "aliases": [
+      "granola bar",
+      "oat bar",
+      "muesli bar",
+      "cereal bar"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "If oats (a five-grain) are the ikar and bind the bar, the beracha is mezonot before and al hamichya after (on a kezayit within the time limit). If the bar is mostly nuts, seeds, and dried fruit held together with honey or syrup and the grain is minor, the beracha may shift toward shehakol or follow the majority ingredient; read the ingredient list.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "stuffed-peppers-rice",
+    "name": "Stuffed Peppers (with rice)",
+    "aliases": [
+      "stuffed peppers",
+      "stuffed bell peppers",
+      "rice stuffed peppers"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "When the rice (and/or meat) filling is the main part eaten and the pepper mainly serves as a vessel, the rice filling is the ikar: mezonot before, nefashot after (rice is mezonot per the Sephardic rule). If the pepper itself is a substantial part eaten for its own sake, haadama may apply. Many of these dishes are eaten as part of a bread meal, in which case HaMotzi covers them.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "calzone",
+    "name": "Calzone",
+    "aliases": [
+      "calzone",
+      "stuffed pizza pocket",
+      "folded pizza"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A calzone is a folded dough pocket with cheese/sauce filling. When eaten as a snack it is generally mezonot (al hamichya after a kezayit). However, since it is essentially bread dough, eating a meal-sized amount or eating it as the basis of a meal can obligate HaMotzi, netilat yadayim, and Birkat HaMazon. Consult a rav for the quantity threshold.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "garlic-bread",
+    "name": "Garlic Bread",
+    "aliases": [
+      "garlic bread",
+      "garlic toast",
+      "cheesy garlic bread"
+    ],
+    "categorySlug": "mixed-foods",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "complex",
+    "notes": "If made from regular bread (a sliced baguette or loaf) it remains bread: HaMotzi, netilat yadayim, and Birkat HaMazon on a kezayit. If it is made from a mezonot dough (enriched with significant oil/fruit juice rather than water) and eaten as a snack, it could be mezonot/al hamichya. Identify the type of dough to determine the beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "malawach",
+    "name": "Malawach",
+    "aliases": [
+      "malawach",
+      "malawah",
+      "melawach",
+      "yemenite fried bread"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A Yemenite flaky fried dough, layered with margarine or oil. Because the dough is enriched and pan-fried (not classic baked bread), it is generally mezonot (al hamichya after a kezayit). However, since it is a substantial dough food, eating a meal-sized portion or making a meal of it can obligate HaMotzi and Birkat HaMazon. Yemenite and Sephardic poskim discuss this; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "jachnun",
+    "name": "Jachnun",
+    "aliases": [
+      "jachnun",
+      "jahnun",
+      "kubaneh-style rolled dough",
+      "yemenite shabbat pastry"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A Yemenite slow-baked rolled dough traditionally eaten Shabbat morning. The dough is rolled with oil/margarine and baked overnight. Many treat it as mezonot (al hamichya after a kezayit) because of the enriched, layered nature. Some poskim, given its bread-like character and that it is often eaten as a meal, require HaMotzi and Birkat HaMazon. Practice varies; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kibbeh",
+    "name": "Kibbeh / Kubbeh",
+    "aliases": [
+      "kibbeh",
+      "kubbeh",
+      "kubba",
+      "bulgur meat dumpling",
+      "kibbe"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "A signature Syrian/Iraqi-Kurdish dish: a bulgur (cracked wheat) shell filled with spiced meat, often in soup. The ruling depends on the ikar: if the bulgur shell is significant and the dish is eaten for the dumpling, mezonot may apply; if the meat filling and broth are primary and the shell is thin, shehakol applies. Because bulgur is wheat, some recite mezonot. The proportions decide; consult a rav. (Listed here as shehakol for thin-shell soup kibbeh; thicker fried kibbeh leans mezonot.)",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sambusak",
+    "name": "Sambusak",
+    "aliases": [
+      "sambusak",
+      "sambousek",
+      "samboosa",
+      "iraqi cheese pastry"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "A half-moon Sephardic/Iraqi pastry of dough filled with cheese, chickpeas, or meat. The dough is the ikar, so the beracha is mezonot before and al hamichya after (on a kezayit). As with all dough pastries, a meal-sized amount eaten as a meal could obligate HaMotzi; eaten as a snack it is mezonot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kubaneh",
+    "name": "Kubaneh",
+    "aliases": [
+      "kubaneh",
+      "kubana",
+      "yemenite shabbat bread",
+      "kubbaneh"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "complex",
+    "notes": "A Yemenite slow-baked enriched bread eaten Shabbat morning. Despite being enriched with butter/oil, kubaneh is bread-like and commonly eaten as a meal, so many poskim require HaMotzi, netilat yadayim, and Birkat HaMazon. Some treat a small snack portion as mezonot due to the enriched dough. Practice varies between communities; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "mufleta",
+    "name": "Mufleta",
+    "aliases": [
+      "mufleta",
+      "moufleta",
+      "mimouna pancake",
+      "moroccan crepe"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A thin Moroccan pan-fried dough traditionally eaten at Mimouna (after Pesach) with honey and butter. Because it is a thin, pan-fried dough rather than baked bread, many treat it as mezonot (al hamichya after a kezayit). Some hold it is bread-like if eaten in quantity as a meal, requiring HaMotzi. Moroccan minhag varies; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "lahmacun",
+    "name": "Lahmacun / Lahmajun",
+    "aliases": [
+      "lahmacun",
+      "lahmajun",
+      "lahmajoun",
+      "armenian pizza",
+      "sfiha-style flatbread"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A thin flatbread topped with spiced minced meat (Turkish/Syrian/Armenian). When the dough is thin and eaten as a snack, it is generally mezonot (al hamichya after a kezayit), with the meat topping secondary. If made on a thicker bread base or eaten as a full meal, it may require HaMotzi and Birkat HaMazon. The thickness of the dough and quantity determine the ruling; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kaak",
+    "name": "Ka'ak",
+    "aliases": [
+      "kaak",
+      "ka'ak",
+      "kahk",
+      "sesame bread ring",
+      "syrian biscuit ring"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Ka'ak refers to crunchy sesame-coated ring biscuits/crackers common in Syrian and other Sephardic communities (distinct from the soft sesame bread sold on streets). The dry, sweet, snack version is typically mezonot (al hamichya after a kezayit). A soft bread-type ka'ak eaten as bread would be HaMotzi. Identify which type; consult a rav for the soft variety.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "maamoul",
+    "name": "Ma'amoul (date-filled)",
+    "aliases": [
+      "maamoul",
+      "ma'amoul",
+      "mamoul",
+      "date cookies",
+      "menenas"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "A Sephardic shortbread-type cookie (semolina/flour dough) filled with dates, walnuts, or pistachios. The dough is the ikar, so the beracha is mezonot before and al hamichya after (on a kezayit of the grain). The date or nut filling is secondary and does not change the beracha. If made entirely without grain it would follow the filling, but the standard recipe is grain-based.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "sfiha",
+    "name": "Sfiha / Lahem Bi Ajeen",
+    "aliases": [
+      "sfiha",
+      "sfeeha",
+      "lahem bi ajeen",
+      "meat pie",
+      "open meat pastry"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "A small open-faced Syrian meat pastry on a dough base. As a snack-sized pastry the dough is the ikar and the beracha is mezonot (al hamichya after a kezayit). If the base is genuine bread or eaten as a full meal, HaMotzi may apply. Depends on dough type and quantity; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "mujadara",
+    "name": "Mujadara",
+    "aliases": [
+      "mujadara",
+      "mejadra",
+      "rice and lentils",
+      "lentils and rice"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "A classic dish of rice (or bulgur) cooked with lentils and fried onions. If rice is the majority, the rice is the ikar: mezonot before, nefashot after (rice is mezonot per the Sephardic rule). If made with bulgur (wheat) as the majority, it would be mezonot with al hamichya after. If lentils predominate, haadama may apply. The grain-to-lentil ratio determines the beracha.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "kousa-mahshi",
+    "name": "Kousa Mahshi (stuffed zucchini)",
+    "aliases": [
+      "kousa mahshi",
+      "stuffed zucchini",
+      "stuffed squash",
+      "mahshi"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Zucchini or squash hollowed and stuffed with a rice-and-meat filling, a staple of Syrian and Iraqi tables. When the rice filling is the main part eaten, the rice is the ikar: mezonot before, nefashot after. If the squash is eaten substantially for its own sake, haadama may apply. Often served within a bread meal, in which case HaMotzi covers it. Consult a rav for the standalone case.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "couscous-with-vegetables",
+    "name": "Couscous with Vegetables",
+    "aliases": [
+      "couscous",
+      "moroccan couscous",
+      "couscous and vegetables",
+      "seksu"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "Couscous is made from semolina (wheat, a five-grain), so it is mezonot before and al hamichya after (on a kezayit within the time limit). When served with a vegetable or meat stew on top, the couscous is the ikar and the toppings are secondary. A primarily-vegetable plate with token couscous would follow the vegetables.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "shakshuka",
+    "name": "Shakshuka",
+    "aliases": [
+      "shakshuka",
+      "shakshouka",
+      "eggs in tomato sauce"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "shehakol",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Eggs poached in a tomato and pepper sauce. The dish is generally shehakol (the egg is the ikar and is shehakol; even on the cooked tomato sauce, blended cooked vegetables often default to shehakol). Nefashot after. If eaten with bread dipped into it, the bread is HaMotzi and covers the dish. When the pepper/tomato are eaten as recognizable pieces for their own sake, haadama could apply; consult a rav.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "ptitim",
+    "name": "Ptitim (Israeli couscous)",
+    "aliases": [
+      "ptitim",
+      "israeli couscous",
+      "ben gurion rice",
+      "pearl couscous"
+    ],
+    "categorySlug": "sephardic-specific",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "note",
+    "notes": "Toasted wheat pasta shaped into small balls. Since it is made from wheat (a five-grain), the beracha is mezonot before and al hamichya after (on a kezayit within the time limit), like any pasta. Toppings of vegetables or sauce are secondary when the ptitim is the ikar.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "burrito",
+    "name": "Burrito",
+    "aliases": [
+      "burrito",
+      "stuffed burrito",
+      "rice and bean burrito"
+    ],
+    "categorySlug": "questionable",
+    "berachaBefore": "hamotzi",
+    "berachaAfter": "birkat_hamazon",
+    "complexity": "complex",
+    "notes": "A large flour tortilla wrapped around rice, beans, meat, and fillings. A substantial flour tortilla eaten as a meal is widely treated as bread, requiring netilat yadayim, HaMotzi, and Birkat HaMazon. Some hold a thin tortilla is mezonot. Given the meal-sized portion, most treat the burrito as bread; consult a rav for the snack-sized or very thin-wrap case.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "stuffed-cabbage",
+    "name": "Stuffed Cabbage (with rice)",
+    "aliases": [
+      "stuffed cabbage",
+      "cabbage rolls",
+      "mahshi malfouf",
+      "holishkes"
+    ],
+    "categorySlug": "questionable",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Cabbage leaves rolled around a rice-and-meat filling. When the rice filling is the main part eaten and the cabbage is the wrapper, the rice is the ikar: mezonot before, nefashot after. If the cabbage is eaten substantially for its own sake, haadama may apply, and if the filling is mostly meat, shehakol. Often eaten in a bread meal, where HaMotzi covers it. Consult a rav for the standalone case.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "rice-pudding",
+    "name": "Rice Pudding",
+    "aliases": [
+      "rice pudding",
+      "roz bil haleeb",
+      "sutlach",
+      "arroz con leche"
+    ],
+    "categorySlug": "questionable",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "nefashot",
+    "complexity": "complex",
+    "notes": "Cooked rice with milk and sugar. By the Sephardic rule cooked rice is mezonot, and here the rice is the ikar, so the beracha is mezonot before and nefashot after (not al hamichya, since rice is not a five-grain). The milk and sugar are secondary. If the dish is so liquid that the milk is the ikar, some would say shehakol; the standard thick pudding is mezonot.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "soup-crackers",
+    "name": "Soup with Croutons / Crackers",
+    "aliases": [
+      "soup crackers",
+      "soup croutons",
+      "soup with mandel",
+      "soup nuts"
+    ],
+    "categorySlug": "questionable",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "Croutons or crackers added to soup are made from a five-grain. If one eats a kezayit of them and they are a meaningful part of the dish, say mezonot (al hamichya after). If they are a minor garnish dissolved into the broth and the soup is the ikar, the soup's beracha (often shehakol or haadama) governs. To avoid doubt, some say mezonot on a crouton/cracker before adding it to the soup.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
+    "source": "Edot HaMizrach standard",
+    "reviewed": false,
+    "minhag": "edot_hamizrach",
+    "active": true
+  },
+  {
+    "slug": "chocolate-covered-pretzel",
+    "name": "Chocolate-Covered Pretzel",
+    "aliases": [
+      "chocolate pretzel",
+      "chocolate covered pretzel",
+      "yogurt pretzel"
+    ],
+    "categorySlug": "questionable",
+    "berachaBefore": "mezonot",
+    "berachaAfter": "almichya",
+    "complexity": "complex",
+    "notes": "The pretzel (a five-grain dough) is the ikar and the chocolate coating is secondary, so the beracha is mezonot before and al hamichya after (on a kezayit of the pretzel within the time limit). If someone eats it specifically for the chocolate (e.g. a thin pretzel heavily enrobed in chocolate eaten as candy), some would say it is borderline; the standard ruling follows the pretzel as ikar.",
+    "amountAcharona": "kezayit",
+    "timeAcharona": "within ~4 minutes",
     "source": "Edot HaMizrach standard",
     "reviewed": false,
     "minhag": "edot_hamizrach",
