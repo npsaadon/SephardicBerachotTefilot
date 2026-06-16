@@ -1,0 +1,12 @@
+{
+  "name": "sephardic-berachot",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": ["content"],
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "validate:content": "npm run validate --workspace content",
+    "build:db": "npm run build:db --workspace content"
+  }
+}
