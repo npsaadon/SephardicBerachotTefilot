@@ -1,6 +1,6 @@
 // Exports validated content as JSON the mobile app bundles directly.
 // Run: npm run export:app   (from content/)  ->  writes to ../app/src/data/
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { validateAll } from "./validate";
@@ -25,6 +25,15 @@ write("categories.json", CATEGORIES);
 write("foods.json", foods);
 write("tefilot.json", tefilot);
 
+// Copy the siddur (imported separately via import:siddur) if present.
+const siddurSrc = join(here, "..", "data", "siddur.json");
+let siddurCount = 0;
+if (existsSync(siddurSrc)) {
+  const siddur = JSON.parse(readFileSync(siddurSrc, "utf8"));
+  write("siddur.json", siddur);
+  siddurCount = Array.isArray(siddur) ? siddur.length : 0;
+}
+
 console.log(
-  `✅ exported to app/src/data: ${BERACHOT.length} berachot, ${CATEGORIES.length} categories, ${foods.length} foods, ${tefilot.length} tefilot`
+  `✅ exported to app/src/data: ${BERACHOT.length} berachot, ${CATEGORIES.length} categories, ${foods.length} foods, ${tefilot.length} tefilot, ${siddurCount} siddur nodes`
 );

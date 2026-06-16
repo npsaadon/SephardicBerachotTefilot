@@ -8,7 +8,8 @@
     "test:watch": "vitest",
     "validate": "tsx src/validate.ts",
     "build:db": "tsx src/buildDb.ts",
-    "export:app": "tsx src/exportApp.ts"
+    "export:app": "tsx src/exportApp.ts",
+    "import:siddur": "tsx src/importSiddur.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.8.1",

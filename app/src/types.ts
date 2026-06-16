@@ -51,6 +51,19 @@ export interface Tefila {
   active: boolean;
 }
 
+export interface SiddurNode {
+  id: string;
+  parentId: string | null;
+  title: string;
+  titleHe: string;
+  order: number;
+  isLeaf: boolean;
+  group: string;
+  sectionType: string;
+  hebrew?: string;
+  ref?: string;
+}
+
 // Navigation param list
 export type RootStackParamList = {
   Home: undefined;
@@ -63,4 +76,7 @@ export type RootStackParamList = {
   TefilaReader: { slug: string };
   Favorites: undefined;
   Settings: undefined;
+  SiddurIndex: undefined;
+  SiddurSection: { id: string; title: string };
+  SiddurReader: { id: string };
 };

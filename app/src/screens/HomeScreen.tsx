@@ -98,6 +98,14 @@ export default function HomeScreen({ navigation }: Props) {
             </View>
 
             <Pressable
+              style={styles.siddurBtn}
+              onPress={() => navigation.navigate("SiddurIndex")}
+            >
+              <Text style={styles.siddurBtnText}>📚  Full Siddur</Text>
+              <Text style={styles.siddurBtnSub}>Complete Edot HaMizrach nusach</Text>
+            </Pressable>
+
+            <Pressable
               style={styles.favBtn}
               onPress={() => navigation.navigate("Favorites")}
             >
@@ -165,6 +173,19 @@ const styles = StyleSheet.create({
   },
   tileIcon: { fontSize: 26 },
   tileLabel: { fontSize: 14, fontWeight: "700", color: colors.navy, marginTop: 10 },
+  siddurBtn: {
+    backgroundColor: colors.card,
+    borderRadius: 14,
+    borderWidth: 2,
+    borderColor: colors.gold,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    alignItems: "center",
+    marginTop: 2,
+    marginBottom: 10,
+  },
+  siddurBtnText: { color: colors.navy, fontSize: 16, fontWeight: "800" },
+  siddurBtnSub: { color: colors.muted, fontSize: 12, marginTop: 2 },
   favBtn: {
     backgroundColor: colors.navy,
     borderRadius: 14,

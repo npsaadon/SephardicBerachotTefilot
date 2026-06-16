@@ -18,6 +18,9 @@ import TefilotListScreen from "./src/screens/TefilotListScreen";
 import TefilaReaderScreen from "./src/screens/TefilaReaderScreen";
 import FavoritesScreen from "./src/screens/FavoritesScreen";
 import SettingsScreen from "./src/screens/SettingsScreen";
+import SiddurIndexScreen from "./src/screens/SiddurIndexScreen";
+import SiddurSectionScreen from "./src/screens/SiddurSectionScreen";
+import SiddurReaderScreen from "./src/screens/SiddurReaderScreen";
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
@@ -62,6 +65,10 @@ export default function App() {
           <Stack.Screen name="TefilaReader" component={TefilaReaderScreen} options={{ title: "Tefila" }} />
           <Stack.Screen name="Favorites" component={FavoritesScreen} options={{ title: "Favorites" }} />
           <Stack.Screen name="Settings" component={SettingsScreen} options={{ title: "Settings" }} />
+          <Stack.Screen name="SiddurIndex" component={SiddurIndexScreen} options={{ title: "Siddur" }} />
+          <Stack.Screen name="SiddurSection" component={SiddurSectionScreen} options={{ title: "Section" }} />
+          <Stack.Screen name="SiddurReader" component={SiddurReaderScreen} options={{ title: "Prayer" }} />
+          {/* SearchResults route reserved for future use */}
         </Stack.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>
