@@ -32,6 +32,16 @@ export function PendingReview() {
   return <Text style={styles.pending}>⏳ Pending rabbinic review</Text>;
 }
 
+// Stable accent color per before-beracha, so the badges are scannable.
+const BERACHA_COLOR: Record<string, string> = {
+  hamotzi: "#8a5a2b",
+  mezonot: "#b5852a",
+  haetz: "#2e7d4f",
+  haadama: "#3f7d2e",
+  hagafen: "#7d2e5c",
+  shehakol: "#2e5c8a",
+};
+
 export function FoodRow({
   food,
   onPress,
@@ -40,18 +50,19 @@ export function FoodRow({
   onPress: () => void;
 }) {
   const before = getBeracha(food.berachaBefore);
-  const dot =
-    food.complexity === "complex" || food.complexity === "ask_rav"
-      ? colors.gold
-      : colors.blue;
+  const complex =
+    food.complexity === "complex" || food.complexity === "ask_rav";
+  const badgeColor = BERACHA_COLOR[food.berachaBefore] ?? colors.blue;
   return (
     <Pressable style={styles.row} onPress={onPress}>
-      <View style={[styles.dot, { backgroundColor: dot }]} />
       <View style={{ flex: 1 }}>
         <Text style={styles.rowName}>{food.name}</Text>
-        <Text style={styles.rowSub}>{before?.nameEn ?? "—"}</Text>
+        {complex ? <Text style={styles.rowFlag}>⚠ depends — tap for details</Text> : null}
       </View>
-      <Text style={styles.rowHeb}>{before?.hebrew ?? ""}</Text>
+      <View style={[styles.badge, { backgroundColor: badgeColor }]}>
+        <Text style={styles.badgeText}>{before?.nameEn ?? "—"}</Text>
+      </View>
+      <Text style={styles.chev}>›</Text>
     </Pressable>
   );
 }
@@ -104,10 +115,11 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     gap: 12,
   },
-  dot: { width: 8, height: 8, borderRadius: 4 },
   rowName: { fontSize: 15, fontWeight: "700", color: colors.navy },
-  rowSub: { fontSize: 12, color: colors.muted, marginTop: 2 },
-  rowHeb: { fontSize: 16, color: colors.navy, marginLeft: 8 },
+  rowFlag: { fontSize: 11, color: colors.gold, marginTop: 3, fontWeight: "600" },
+  badge: { borderRadius: 8, paddingHorizontal: 10, paddingVertical: 5, marginLeft: 8 },
+  badgeText: { color: "#fff", fontSize: 11, fontWeight: "800" },
+  chev: { fontSize: 20, color: colors.muted, marginLeft: 6 },
   star: { fontSize: 24, color: colors.muted },
   starOn: { color: colors.gold },
 });
