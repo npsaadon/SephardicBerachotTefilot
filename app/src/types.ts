@@ -6,6 +6,10 @@ export interface Beracha {
   nameTranslit: string;
   hebrew: string;
   type: BerachaType;
+  hebrewFull: string;
+  translitFull: string;
+  englishFull: string;
+  tefilaSlug?: string;
 }
 
 export interface Category {
@@ -51,6 +55,9 @@ export interface Tefila {
   active: boolean;
 }
 
+export type SiddurRun = { k: "h" | "i" | "t"; s: string };
+export type SiddurLine = SiddurRun[];
+
 export interface SiddurNode {
   id: string;
   parentId: string | null;
@@ -60,7 +67,7 @@ export interface SiddurNode {
   isLeaf: boolean;
   group: string;
   sectionType: string;
-  hebrew?: string;
+  content?: SiddurLine[];
   ref?: string;
 }
 

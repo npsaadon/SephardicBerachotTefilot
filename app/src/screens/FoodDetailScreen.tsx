@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { colors, complexityMeta } from "../theme";
-import { RootStackParamList } from "../types";
+import { Beracha, RootStackParamList } from "../types";
 import { getBeracha, getCategory, getFood } from "../data";
 import {
   addRecentFood,
@@ -56,20 +56,27 @@ export default function FoodDetailScreen({ route, navigation }: Props) {
 
       <ComplexityBanner kind={food.complexity} />
 
-      <BerachaCard
-        label="Before eating"
-        accent={colors.gold}
-        nameEn={before?.nameEn}
-        hebrew={before?.hebrew}
-        translit={showTranslit ? before?.nameTranslit : undefined}
-      />
+      {before && (
+        <BerachaCard
+          label="Before eating"
+          accent={colors.gold}
+          beracha={before}
+          showTranslit={showTranslit}
+          showEnglish={showEnglish}
+        />
+      )}
       {after ? (
         <BerachaCard
           label="After eating"
           accent={colors.blue}
-          nameEn={after.nameEn}
-          hebrew={after.hebrew}
-          translit={showTranslit ? after.nameTranslit : undefined}
+          beracha={after}
+          showTranslit={showTranslit}
+          showEnglish={showEnglish}
+          onViewFull={
+            after.tefilaSlug
+              ? () => navigation.navigate("TefilaReader", { slug: after.tefilaSlug! })
+              : undefined
+          }
         />
       ) : (
         <View style={styles.noAfter}>
@@ -94,13 +101,6 @@ export default function FoodDetailScreen({ route, navigation }: Props) {
         </View>
       ) : null}
 
-      {showEnglish && (before || after) ? (
-        <Text style={styles.enLine}>
-          {before ? `Before: "${before.nameEn}"` : ""}
-          {after ? `   ·   After: "${after.nameEn}"` : ""}
-        </Text>
-      ) : null}
-
       {!food.reviewed && <PendingReview />}
     </ScrollView>
   );
@@ -109,24 +109,47 @@ export default function FoodDetailScreen({ route, navigation }: Props) {
 function BerachaCard({
   label,
   accent,
-  nameEn,
-  hebrew,
-  translit,
+  beracha,
+  showTranslit,
+  showEnglish,
+  onViewFull,
 }: {
   label: string;
   accent: string;
-  nameEn?: string;
-  hebrew?: string;
-  translit?: string;
+  beracha: Beracha;
+  showTranslit: boolean;
+  showEnglish: boolean;
+  onViewFull?: () => void;
 }) {
+  // Long after-blessings (me'ein shalosh / birkat hamazon) link out to their
+  // full text rather than inlining the whole thing.
+  const linkOut = !!onViewFull;
   return (
     <View style={[styles.card, { borderColor: accent }]}>
       <Text style={[styles.cardLabel, { color: accent }]}>
         {label.toUpperCase()}
       </Text>
-      <Text style={styles.cardName}>{nameEn ?? "—"}</Text>
-      {hebrew ? <Text style={styles.cardHeb}>{hebrew}</Text> : null}
-      {translit ? <Text style={styles.cardTr}>{translit}</Text> : null}
+      <Text style={styles.cardName}>{beracha.nameEn}</Text>
+      {linkOut ? (
+        <>
+          <Text style={styles.cardHeb}>{beracha.hebrew}</Text>
+          <Pressable onPress={onViewFull} style={[styles.viewFull, { borderColor: accent }]}>
+            <Text style={[styles.viewFullText, { color: accent }]}>
+              View full after-blessing →
+            </Text>
+          </Pressable>
+        </>
+      ) : (
+        <>
+          <Text style={styles.cardHeb}>{beracha.hebrewFull}</Text>
+          {showTranslit ? (
+            <Text style={styles.cardTr}>{beracha.translitFull}</Text>
+          ) : null}
+          {showEnglish ? (
+            <Text style={styles.cardEn}>{beracha.englishFull}</Text>
+          ) : null}
+        </>
+      )}
     </View>
   );
 }
@@ -156,9 +179,12 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
   cardLabel: { fontSize: 10, fontWeight: "800", letterSpacing: 0.7 },
-  cardName: { fontSize: 18, fontWeight: "700", color: colors.navy, marginTop: 4 },
-  cardHeb: { fontSize: 24, color: colors.navy, marginTop: 10, writingDirection: "rtl", textAlign: "right", lineHeight: 38 },
-  cardTr: { fontSize: 13, fontStyle: "italic", color: colors.muted, marginTop: 6 },
+  cardName: { fontSize: 16, fontWeight: "700", color: colors.navy, marginTop: 4 },
+  cardHeb: { fontSize: 22, color: colors.navy, marginTop: 10, writingDirection: "rtl", textAlign: "right", lineHeight: 38 },
+  cardTr: { fontSize: 14, fontStyle: "italic", color: "#5b6678", marginTop: 8, lineHeight: 21 },
+  cardEn: { fontSize: 13, color: colors.muted, marginTop: 6, lineHeight: 20 },
+  viewFull: { alignSelf: "flex-start", borderWidth: 1.5, borderRadius: 10, paddingHorizontal: 12, paddingVertical: 8, marginTop: 12 },
+  viewFullText: { fontSize: 13, fontWeight: "700" },
   noAfter: { backgroundColor: colors.card, borderRadius: 16, borderWidth: 1, borderColor: colors.border, padding: 15, marginBottom: 12 },
   noAfterText: { color: colors.muted, fontSize: 13 },
   meta: { flexDirection: "row", flexWrap: "wrap", gap: 8, marginBottom: 12 },

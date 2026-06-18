@@ -34,15 +34,19 @@ export default function SiddurIndexScreen({ navigation }: Props) {
               key={s.id}
               style={styles.row}
               onPress={() =>
-                navigation.navigate("SiddurSection", { id: s.id, title: s.title })
+                s.isLeaf
+                  ? navigation.navigate("SiddurReader", { id: s.id })
+                  : navigation.navigate("SiddurSection", { id: s.id, title: s.title })
               }
             >
               <View style={{ flex: 1 }}>
                 <Text style={styles.name}>{s.title}</Text>
                 {s.titleHe ? <Text style={styles.he}>{s.titleHe}</Text> : null}
               </View>
-              <Text style={styles.count}>{childrenOf(s.id).length}</Text>
-              <Text style={styles.arrow}>›</Text>
+              {!s.isLeaf && (
+                <Text style={styles.count}>{childrenOf(s.id).length}</Text>
+              )}
+              <Text style={styles.arrow}>{s.isLeaf ? "›" : "»"}</Text>
             </Pressable>
           ))}
         </View>

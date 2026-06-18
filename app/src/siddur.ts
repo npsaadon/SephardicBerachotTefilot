@@ -16,15 +16,19 @@ export const childrenOf = (id: string): SiddurNode[] =>
   SIDDUR.filter((n) => n.parentId === id).sort((a, b) => a.order - b.order);
 
 export const SECTION_TYPE_LABELS: Record<string, string> = {
-  daily: "Daily",
-  weekday: "Weekday",
+  daily: "Daily Prayers",
+  meals: "Blessings & Meals",
   shabbat: "Shabbat",
   festival: "Festivals",
   occasion: "Occasions",
   other: "More",
 };
 
-const SECTION_TYPE_ORDER = ["daily", "weekday", "shabbat", "festival", "occasion", "other"];
+const SECTION_TYPE_ORDER = ["daily", "meals", "shabbat", "festival", "occasion", "other"];
+
+/** True if a node has any prayer text of its own. */
+export const hasContent = (n: SiddurNode): boolean =>
+  !!n.content && n.content.length > 0;
 
 /** Top sections grouped by sectionType, in display order. */
 export function groupedTopSections(): { type: string; label: string; sections: SiddurNode[] }[] {

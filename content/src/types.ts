@@ -4,8 +4,15 @@ export interface Beracha {
   key: string;            // stable id, e.g. "haetz"
   nameEn: string;         // "Borei Pri HaEtz"
   nameTranslit: string;   // "Borei peri ha'etz"
-  hebrew: string;         // "בּוֹרֵא פְּרִי הָעֵץ"
+  hebrew: string;         // short ending: "בּוֹרֵא פְּרִי הָעֵץ"
   type: BerachaType;
+  // Full text you actually recite:
+  hebrewFull: string;     // "בָּרוּךְ אַתָּה... בּוֹרֵא פְּרִי הָעֵץ"
+  translitFull: string;
+  englishFull: string;
+  // For long after-blessings (me'ein shalosh / birkat hamazon), link to the
+  // full tefila text instead of inlining it.
+  tefilaSlug?: string;
 }
 
 export interface Category {
