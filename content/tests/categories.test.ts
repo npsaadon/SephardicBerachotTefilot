@@ -4,7 +4,7 @@ import { CATEGORIES, categorySlugs } from "../src/categories";
 describe("categories", () => {
   it("includes the key categories from the spec", () => {
     expect(categorySlugs).toContain("bread");
-    expect(categorySlugs).toContain("mezonot");
+    expect(categorySlugs).toContain("grains");
     expect(categorySlugs).toContain("fruits");
     expect(categorySlugs).toContain("vegetables");
     expect(categorySlugs).toContain("drinks");

@@ -1,20 +1,22 @@
 import type { Category } from "./types";
 
 export const CATEGORIES: Category[] = [
-  { slug: "bread", name: "Bread / Hamotzi", icon: "🍞", sortOrder: 1 },
-  { slug: "mezonot", name: "Mezonot", icon: "🥐", sortOrder: 2 },
-  { slug: "wine", name: "Wine & Grape Juice", icon: "🍷", sortOrder: 3 },
-  { slug: "fruits", name: "Fruits", icon: "🍎", sortOrder: 4 },
-  { slug: "vegetables", name: "Vegetables", icon: "🥕", sortOrder: 5 },
-  { slug: "drinks", name: "Drinks", icon: "🥤", sortOrder: 6 },
-  { slug: "meat-fish-eggs", name: "Meat / Fish / Eggs", icon: "🍗", sortOrder: 7 },
-  { slug: "dairy", name: "Dairy", icon: "🧀", sortOrder: 8 },
-  { slug: "snacks", name: "Snacks", icon: "🍿", sortOrder: 9 },
-  { slug: "desserts", name: "Desserts", icon: "🍰", sortOrder: 10 },
-  { slug: "cooked-foods", name: "Cooked Foods", icon: "🍲", sortOrder: 11 },
-  { slug: "mixed-foods", name: "Mixed Foods", icon: "🍕", sortOrder: 12 },
-  { slug: "questionable", name: "Questionable Foods", icon: "❓", sortOrder: 13 },
-  { slug: "sephardic-specific", name: "Sephardic-Specific Cases", icon: "✡️", sortOrder: 14 },
+  { slug: "bread", name: "Bread", icon: "🍞", sortOrder: 1 },
+  { slug: "grains", name: "Grains & Mezonot", icon: "🥐", sortOrder: 2 },
+  { slug: "fruits", name: "Fruits", icon: "🍎", sortOrder: 3 },
+  { slug: "vegetables", name: "Vegetables", icon: "🥕", sortOrder: 4 },
+  { slug: "legumes-nuts", name: "Legumes & Nuts", icon: "🥜", sortOrder: 5 },
+  { slug: "meat-poultry", name: "Meat & Poultry", icon: "🍗", sortOrder: 6 },
+  { slug: "fish", name: "Fish & Seafood", icon: "🐟", sortOrder: 7 },
+  { slug: "eggs", name: "Eggs", icon: "🥚", sortOrder: 8 },
+  { slug: "dairy", name: "Dairy", icon: "🧀", sortOrder: 9 },
+  { slug: "drinks", name: "Drinks", icon: "🥤", sortOrder: 10 },
+  { slug: "wine", name: "Wine & Grape", icon: "🍷", sortOrder: 11 },
+  { slug: "snacks", name: "Snacks", icon: "🍿", sortOrder: 12 },
+  { slug: "sweets", name: "Sweets & Desserts", icon: "🍰", sortOrder: 13 },
+  { slug: "cooked-dishes", name: "Cooked Dishes", icon: "🍲", sortOrder: 14 },
+  { slug: "mixed-foods", name: "Mixed Foods", icon: "🍕", sortOrder: 15 },
+  { slug: "sephardic-dishes", name: "Sephardic Dishes", icon: "✡️", sortOrder: 16 },
 ];
 
 export const categorySlugs = CATEGORIES.map((c) => c.slug);
